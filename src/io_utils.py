@@ -9,5 +9,5 @@ def greet(name):
 
 def _build_greeting(name):
     if not name or not name.strip():
-        raise ValueError("name must not be empty or blnak")  # typo: blnak -> blank (issue #06)
+        raise ValueError("name must not be empty or blank")
     return f"Hello, {name.strip()}!"
