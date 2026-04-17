@@ -11,7 +11,7 @@ A small Python utility library used by CodeSchool learners to practice their fir
 5. Address any review comments from the bot.
 6. When checks go green, the bot auto-merges.
 
-You will recieve feedback from the automated reviewer within a few seconds of opening your PR.
+You will receive feedback from the automated reviewer within a few seconds of opening your PR.
 
 ## Running tests
 
